@@ -1,0 +1,5 @@
+Streamlit
+pillow
+numpy
+pytesseract
+sentence_transformers
