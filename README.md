@@ -109,7 +109,7 @@ It can be useful for students and beginners who want to understand how AI models
 **Kaviya Shree V**
 
 ## Link
-https://codealphazuki-translator-fapaw3ecj6jrwtusx7rvjb.streamlit.app/
+https://zuki-attention-visualizer-5swvjruxfnc5zwadk38vem.streamlit.app/
 
 ## License
 
