@@ -89,6 +89,16 @@ streamlit run app.py
 
 The application will open in your browser.
 
+## Attachements
+
+<img width="1899" height="983" alt="Screenshot 2026-09-29 212803" src="https://github.com/user-attachments/assets/a224187a-20ae-4f03-8240-d73b485f5c1c" />
+
+<img width="1815" height="925" alt="Screenshot 2026-09-29 213205" src="https://github.com/user-attachments/assets/6fa75678-68d8-406b-b255-6b668525cd99" />
+
+<img width="1714" height="944" alt="Screenshot 2026-09-29 213311" src="https://github.com/user-attachments/assets/47184266-a0ac-434b-9324-4540c8165df9" />
+
+
+
 ## Purpose
 
 The main purpose of this project is to provide a simple and visual way to understand the **attention mechanism used in modern AI and Natural Language Processing (NLP)**.
